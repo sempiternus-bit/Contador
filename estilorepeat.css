@@ -1,0 +1,29 @@
+
+body{
+	background: #92bbb1;
+	font: normal 12pt Arial;
+}
+header{
+	text-align: center;
+	color: #fff;
+	font-style: italic;
+}
+section{
+	width: 500px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 10px;
+	border-radius: 10px;
+}
+footer{
+	text-align: center;
+	font-style: italic;
+	color: #fff;
+}
+#dados{
+	margin-bottom: 10px;
+}
+input{
+	display: block;
+	float: center;
+}
