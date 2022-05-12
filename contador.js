@@ -4,7 +4,7 @@ function contar(){
 	let pass = document.getElementById('pass')
 	let res = document.getElementById('res')
 	if (ini.value.length == 0 || fim.value.length == 0 || pass.value.length == 0){
-		alert('erro! Confira os dados e tete novamente')
+		alert('Erro! Confira os dados e tente novamente')
 	}else {
 		res.innerHTML = 'Contando...'
 		let i = Number(ini.value)
